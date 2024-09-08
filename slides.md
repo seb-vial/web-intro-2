@@ -1393,7 +1393,7 @@ More on the [audio](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/au
 </v-click>
 
 <div v-click class="mt-4 flex justify-center">
-  <audio src="/media/ring.wav" controls class="h-8"></audio>
+  <audio src="./media/ring.wav" controls class="h-8"></audio>
 </div>
 
 <ComplementaryMessage type="alert" bordered>The <strong>controls</strong> attribute does not have a value and has to be present for the control bar to appear.</ComplementaryMessage>
