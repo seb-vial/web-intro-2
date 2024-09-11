@@ -274,7 +274,7 @@ div, p {
 </div>
 
 <v-click>
-<p class="text-left mt-1 text-sm opacity-75">Descendents</p>
+<p class="text-left mt-1 text-sm opacity-75">Descendants</p>
 <div class="flex items-center text-left gap-x-4">
 
 ```css{*}{lines:true}
@@ -296,7 +296,7 @@ div p {
 </v-click>
 
 <v-click>
-<p class="text-left mt-1 text-sm opacity-75"><strong>Direct</strong> descendents</p>
+<p class="text-left mt-1 text-sm opacity-75"><strong>Direct</strong> descendants</p>
 <div class="flex items-center text-left gap-x-4">
 
 ```css{*}{lines:true}
