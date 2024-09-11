@@ -1122,11 +1122,11 @@ section {
   Adipiscing vel imperdiet eirmod dolore sit qui accusam diam quod et. Sit dolor sed est takimata vero dolores et odio dolores facilisis ut eum est lobortis ea. Duo sea aliquyam stet duo et vulputate voluptua eirmod elitr accusam elitr tempor gubergren kasd voluptua duo stet. Ad eirmod autem dolor tincidunt no eum dolor et veniam gubergren. In eirmod sanctus.</section>
 </div>
 
-<div class="absolute h-2 w-79 top-63 left-7" v-mark.box.yellow="3"></div>
-<div class="absolute h-2 w-79 bottom-34 left-7" v-mark.box.yellow="3"></div>
-<div class="absolute h-35 w-2 top-66 left-7" v-mark.box.yellow="3"></div>
-<div class="absolute h-35 w-2 top-66 left-84" v-mark.box.yellow="3"></div>
-<div class="absolute h-1 w-10 top-71 left-111" v-mark.underline.yellow="3"></div>
+<div class="absolute h-2 w-79 top-63 left-7" v-mark.box.yellow="[3,4]"></div>
+<div class="absolute h-2 w-79 bottom-34 left-7" v-mark.box.yellow="[3,4]"></div>
+<div class="absolute h-35 w-2 top-66 left-7" v-mark.box.yellow="[3,4]"></div>
+<div class="absolute h-35 w-2 top-66 left-84" v-mark.box.yellow="[3,4]"></div>
+<div class="absolute h-1 w-10 top-71 left-111" v-mark.underline.yellow="[3,4]"></div>
 
 <div class="absolute h-1 w-73 top-66 left-10" v-mark.box.purple="4"></div>
 <div class="absolute h-1 w-73 bottom-37 left-10" v-mark.box.purple="4"></div>
