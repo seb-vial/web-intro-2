@@ -1084,7 +1084,7 @@ div {
 
 <div v-motion v-click :initial="{x: 999, y: -999}" :enter="{x: 560, y: -150}" class="absolute p-4 max-w-1/3 bg-gray-700 text-white dark:text-gray-800 dark:bg-white rounded-md border-2 border-teal-600 text-xs">
   <div class="inline-block max-w-4/5 min-h-[40px] border border-gray-700 mb-2">Only a few words. 40px heigh.</div><br>
-  <div class="inline-block max-w-4/5 max-h-[40px] border border-gray-700 mb-2">This one is larger and goes to the set max width (80%). It’s gonna be more than 40px heigh as it has many lines!</div>
+  <div class="inline-block max-w-4/5 min-h-[40px] border border-gray-700 mb-2">This one is larger and goes to the set max width (80%). It’s gonna be more than 40px heigh as it has many lines!</div>
 </div>
 
 ---
