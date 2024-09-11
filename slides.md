@@ -226,7 +226,7 @@ left: false
 
 ```css{*}{lines:true}
 body {
- backgrond-color: #000000;
+ background-color: #000000;
 }
 div {
  color: #FFFFFF;
