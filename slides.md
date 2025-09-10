@@ -384,7 +384,7 @@ body {
   /* Should the image cover all the container’s background ? */
   background-size: 50%;
   /* Should the image repeat itself ? */
-  background-repeat: none;
+  background-repeat: no-repeat;
   /* Should the image be fixed when the user scrolls up and down ? */
   background-attachment: fixed;
 }
