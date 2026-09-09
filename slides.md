@@ -1330,7 +1330,7 @@ Learn more on audio [formats](https://developer.mozilla.org/en-US/docs/Web/Media
     <td class="font-bold">Edge</td>
     <td><light-icon icon="square-check" color="green" /></td>
     <td><light-icon icon="square-check" color="green" /></td>
-    <td><light-icon icon="square-minus" color="orange" /><br><span class="text-[8px]">Si &ge; v17</span></td>
+    <td><light-icon icon="square-minus" color="orange" /><br><span class="text-[8px]">If &ge; v17</span></td>
     <td><light-icon icon="square-check" color="green" /></td>
   </tr>
   <tr>
@@ -1343,7 +1343,7 @@ Learn more on audio [formats](https://developer.mozilla.org/en-US/docs/Web/Media
   <tr>
     <td class="font-bold">Firefox</td>
     <td><light-icon icon="square-check" color="green" /></td>
-    <td><light-icon icon="square-minus" color="orange" /><br><span class="!text-[8px]">Si codec installé et encapsulé dans MP4</span></td>
+    <td><light-icon icon="square-minus" color="orange" /><br><span class="!text-[8px]">If codec installed and in an MP4 container</span></td>
     <td><light-icon icon="square-check" color="green" /></td>
     <td><light-icon icon="square-check" color="green" /></td>
   </tr>  
@@ -1351,7 +1351,7 @@ Learn more on audio [formats](https://developer.mozilla.org/en-US/docs/Web/Media
     <td class="font-bold">Safari</td>
     <td><light-icon icon="square-check" color="green" /></td>
     <td><light-icon icon="square-check" color="green" /></td>
-    <td><light-icon icon="square-x" color="red" /></td>
+    <td><light-icon icon="square-minus" color="orange" /><br><span class="text-[8px]">If &ge; v18.4</span></td>
     <td><light-icon icon="square-check" color="green" /></td>
   </tr>
   <tr>
@@ -1439,14 +1439,14 @@ Learn more on video [formats](https://developer.mozilla.org/en-US/docs/Web/Media
   <tr>
     <td class="font-bold">Firefox</td>
     <td><light-icon icon="square-check" color="green" /></td>
-    <td><light-icon icon="square-check" color="green" /></td>
+    <td><light-icon icon="square-x" color="red" /></td>
     <td><light-icon icon="square-check" color="green" /></td>
   </tr>  
   <tr>
     <td class="font-bold">Safari</td>
     <td><light-icon icon="square-check" color="green" /></td>
     <td><light-icon icon="square-x" color="red" /></td>
-    <td><light-icon icon="square-minus" color="orange" /><br><span class="text-[8px]">Si &ge; v16 ou &ge; 12.1 si codec installé</span></td>
+    <td><light-icon icon="square-minus" color="orange" /><br><span class="text-[8px]">If &ge; v16 or &ge; 12.1 if codec installed</span></td>
   </tr>
   <tr>
     <td class="font-bold">Opera</td>
